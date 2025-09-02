@@ -37,4 +37,5 @@ Con todo configurado, puedes ejecutar el script. Simplemente proporciona la URL 
 Bash
 
 python youtube.summary.py 'https://www.youtube.com/watch?v=TKnnmhX-59k'
+
 El script creará un archivo resumo.md en la misma carpeta, que contendrá el resumen del vídeo.
