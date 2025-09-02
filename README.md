@@ -18,6 +18,7 @@ Navega a la carpeta de tu proyecto en el terminal e instala las bibliotecas de P
 Bash
 
 pip install yt-dlp openai ffmpeg-python
+
 3. Configuración de la Clave de API
 Este proyecto requiere una clave de la API de OpenAI para funcionar.
 
