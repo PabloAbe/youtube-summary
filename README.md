@@ -28,6 +28,8 @@ Configúrala como una variable de entorno en tu terminal. Reemplaza tu_clave_aqu
 Bash
 
 export OPENAI_API_KEY='tu_clave_aqui'
+
+
 4. Ejecución del Script
 Con todo configurado, puedes ejecutar el script. Simplemente proporciona la URL del vídeo de YouTube como un argumento en la línea de comandos:
 
